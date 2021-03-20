@@ -4,7 +4,7 @@ Building AI course project
 
 ## Summary
 
-This helmet could sense its wearer’s facial expressions - mouth muscle movements as well eye and eyelid movements. The outer shell of the helmet would react accordingly. For example, the helmet would express a smile with LED lights when a head inside it smiled as well, or blink when the head blinked.
+This helmet could sense its wearer’s facial expressions - mouth muscle movements as well as eye and eyelid movements. The outer shell of the helmet would react accordingly. For example, the helmet would express a smile with LED lights when a head inside it smiled as well, or blink when the head blinked.
 
 ## Background
 
