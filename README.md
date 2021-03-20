@@ -73,6 +73,8 @@ Because this project is currently 99.999% hypothetical and I didn’t have time 
 
 This project could grow even more advanced and impressive by adding the ability to sense rapid facial movements in different positions. For example, the expressive mask/helmet could be “smiling” while talking at the same time if the face inside the helmet does the same.
 
+However, if I am to advance in this project, I have to take further research into the building materials and facial recognition system. I am also quite convinced I might need some assistance from those who have looked into these more than I before I can come up to right conclusions even further.
+
 ## Acknowledgements
 
 The exemplary code is based on the advanced level of exercise 7, “Flip the coin”, which is part of Elements of AI: Building AI online course. The code is used with explicit permission from the course creators University of Helsinki and Reaktor. My sources of inspiration for this project are Hatsune Miku, Daft Punk, Deadmau5 and Japanese technology along with its kawaii culture. I also want to give credit to my family for the idea of a facial recognition system.
