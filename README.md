@@ -71,7 +71,7 @@ Because this project is currently 99.999% hypothetical and I didn’t have time 
 
 ## What next?
 
-This project could grow even more advanced and impressive by adding the ability to sense rapid facial movements in different positions. For example, the expressive mask/helmet could be “smiling” while talking at the same time if the face inside the helmet does the same.
+This project could grow even more advanced and impressive by adding the ability to sense rapid facial movements in different positions. For example, the expressive mask/helmet could be “smiling” while talking at the same time if the face inside the helmet does the same. Also, the project could become even more of an AI solution by adding color-changing features to the LED lights according to which words were just recorded by the AI method. For example, when talked about things related to sky, the color of eye LEDs could turn blue.
 
 However, if I am to advance in this project, I have to take further research into the building materials and facial recognition system. I am also quite convinced I might need some assistance from those who have looked into these more than I before I can come up to right conclusions even further.
 
